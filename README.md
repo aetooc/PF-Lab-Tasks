@@ -1,2 +1,3 @@
-# PF-Lab-Tasks
-Pf lab tasks
+# PF Lab Tasks
+---
+My Programming Fundamentals Lab Tasks.
